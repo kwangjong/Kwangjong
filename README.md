@@ -5,7 +5,7 @@
   - [ComputerScienceCheetSheet](https://github.com/Kwangjong/CSCheetSheet)
 
 - 🌱 I’m currently learning ...
-  - React 
+  - React, Typescript
 
 - 📫 How to reach me ...
   - Email: choikj0903@gmail.com  
