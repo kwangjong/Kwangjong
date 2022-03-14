@@ -1,5 +1,7 @@
 👋 Hi! My name is Kwangjong Choi. I also go by KJ. I’m a aspiring software engineer studying CS in University of Wisconsin Madison.
 
+출처: https://hongssup.tistory.com/243 [Outgoing Introvert]
+
 - 👀 I’m currently working on ...
   - [Personal Website using React](https://github.com/Kwangjong/kwangjong.github.io)
   - [ComputerScienceCheetSheet](https://github.com/Kwangjong/CSCheetSheet)
