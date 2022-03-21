@@ -1,7 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=KJ%20Choi&fontSize=90)
+
+
 👋 Hi! My name is Kwangjong Choi. I also go by KJ. I’m a aspiring software engineer studying CS in University of Wisconsin Madison.
 
 - 👀 I’m currently working on ...
-  - [Personal Website using React](https://github.com/Kwangjong/kwangjong.github.io)
+  - [Personal Website using Jekyll](https://github.com/Kwangjong/kwangjong.github.io)
   - [ComputerScienceCheetSheet](https://github.com/Kwangjong/CSCheetSheet)
 
 - 🌱 I’m currently learning ...
