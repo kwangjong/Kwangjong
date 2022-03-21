@@ -3,6 +3,8 @@
 
 👋 Hi! My name is Kwangjong Choi. I also go by KJ. I’m a aspiring software engineer studying CS in University of Wisconsin Madison.
 
+[My Blog](https://kwangjong.github.io)
+
 - 👀 I’m currently working on ...
   - [Personal Website using Jekyll](https://github.com/Kwangjong/kwangjong.github.io)
   - [ComputerScienceCheetSheet](https://github.com/Kwangjong/CSCheetSheet)
@@ -13,8 +15,8 @@
 - 📫 How to reach me ...
   - Email: choikj0903@gmail.com  
  
-### Skillsets
-
+### 🛠 Skillsets
+Tech I've used at lease once
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 
 
