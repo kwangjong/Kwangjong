@@ -4,6 +4,7 @@
 👋 Hi! My name is Kwangjong Choi. I also go by KJ. I’m an aspiring software engineer studying CS in the University of Wisconsin Madison. I am interested in various fields including front-end development, data science, and research.
 
 [My Blog](https://kwangjong.github.io)
+[CSCheatSheeet](https://kwangjong.github.io/cscheatsheet)
 
 - 👀 I’m currently working on ...
   - [Personal Website using Jekyll](https://github.com/Kwangjong/kwangjong.github.io)
