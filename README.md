@@ -7,7 +7,6 @@
 [CSCheatSheeet](https://kwangjong.github.io/cscheatsheet)
 
 - 👀 I’m currently working on ...
-  - [Personal Website using Jekyll](https://github.com/Kwangjong/kwangjong.github.io)
   - [ComputerScienceCheetSheet](https://github.com/Kwangjong/CSCheetSheet)
 
 - 🌱 I’m currently learning ...
