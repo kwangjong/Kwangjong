@@ -7,10 +7,10 @@
 [My Blog](https://kwangjong.github.io)<br/>
 
 - 👀 I’m currently working on ...
-  - Leetcode, Kaggle
+  - Kaggle
 
 - 🌱 I’m currently learning ...
-  - Data Science
+  - Data Science, Deep Learning
 
 - 📫 How to reach me ...
   - Email: choikj0903@gmail.com  
