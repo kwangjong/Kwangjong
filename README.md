@@ -7,6 +7,7 @@
 [My Blog](https://kwangjong.github.io)<br/>
 
 - 👀 I’m currently working on ...
+  - Object Detection on Traffic CCTV
   - Training MobileNet with Food data
 
 - 🌱 I’m currently learning ...
