@@ -18,7 +18,9 @@
   
   
 ## 💻 Recent Projects
-### 🍳[HomeCooked Neural Net](https://kwangjong.github.io/2022/07/09/homecooked-nn/) <a href ="https://huggingface.co/spaces/kwangjong/homecooked-nn"><img class ="badge-right" alt="Demo" src ="https://img.shields.io/badge/%F0%9F%A4%97%20Demo-blue?&style=flat"></a>
+### 🍳[HomeCooked Neural Net](https://kwangjong.github.io/2022/07/09/homecooked-nn/) <a href ="<a href ="https://hf.space/streamlit/kwangjong/homecooked-nn/+/">
+			<img class ="badge-right" alt="Demo" src ="https://img.shields.io/badge/%F0%9F%A4%97%20Demo-blue?&style=flat"> 
+		</a>"><img class ="badge-right" alt="Demo" src ="https://img.shields.io/badge/%F0%9F%A4%97%20Demo-blue?&style=flat"></a>
 - My attempt on building a neural network module from scratch.
 - Implemented feed-forward network capable of regression and binary classification with an option to use SGD or Adam for optimization.
 - Demo available on 🤗HuggingFace Space integreated with Streamlit!
