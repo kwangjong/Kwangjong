@@ -7,11 +7,10 @@
 [My Blog](https://kwangjong.github.io)<br/>
 
 - 👀 I’m currently working on ...
-  - Object Detection on Traffic CCTV
-  - Training MobileNet with Food data
+  - [OpenLambda](https://github.com/Kwangjong/open-lambda)
 
 - 🌱 I’m currently learning ...
-  - Computer Vision
+  - Computer Networks(CS640), Data Programming II (CS320), Data Science Modeling I (STAT240)
 
 - 📫 How to reach me ...
   - Email: choikj0903@gmail.com  
