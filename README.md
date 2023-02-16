@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=KJ&fontSize=90)
 
 
-👋 Hi! My name is Kwangjong Choi. I also go by KJ. I’m an aspiring software engineer studying CS in the University of Wisconsin Madison. <!--I am interested in various fields including Software Engineering and Data Science.-->
-
+👋 Hi! My name is KJ. I’m an aspiring software engineer studying CompSci & DS in the University of Wisconsin Madison.
 
 [My Blog](https://kwangjong.github.io)<br/>
 
