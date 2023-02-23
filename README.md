@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=KJ&fontSize=90)
 
-
-Hi! My name is KJ. I’m an aspiring software engineer studying CompSci & DS in the University of Wisconsin Madison.
-
 [My Blog](https://kwangjong.github.io)<br/>
 
 - I’m currently working on ...
