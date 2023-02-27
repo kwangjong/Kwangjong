@@ -6,7 +6,8 @@
   - [OpenLambda](https://github.com/open-lambda/open-lambda/tree/s23)
 
 - I’m currently learning ...
-  - Introduction to Algorithms(CS577), Data Science Modeling II (STAT230)
+  - Introduction to Algorithms(CS577), Data Science Modeling II (STAT340)
+  - MongoDB, full-stack web development
 
 - How to reach me ...
   - Email: choikj0903@gmail.com  
