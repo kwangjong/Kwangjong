@@ -9,6 +9,7 @@
 - I’m currently learning ...
   - Introduction to Algorithms(CS577), Data Science Modeling II (STAT340)
   - MongoDB, full-stack web development
+  - Rust
 
 - How to reach me ...
   - Email: choikj0903@gmail.com  
