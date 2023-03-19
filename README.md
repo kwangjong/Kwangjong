@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=KJ&fontSize=90)
 
-[My Blog](https://kwangjong.github.io)<br/>
-
 - I’m currently working on ...
   - [OpenLambda](https://github.com/open-lambda/open-lambda/tree/s23)
   - [full-stacked blog](https://github.com/kwangjong/kwangjong.github.io/tree/backend)
 
 - I’m currently learning ...
   - Introduction to Algorithms(CS577), Data Science Modeling II (STAT340)
-  - MongoDB, full-stack web development
+  - MongoDB, Svelte
 
 - How to reach me ...
   - Email: choikj0903@gmail.com  
