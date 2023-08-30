@@ -2,7 +2,7 @@
 
 - I’m currently working on ...
   - [OpenLambda](https://github.com/open-lambda/open-lambda/tree/s23)
-  - [full-stacked blog](https://github.com/kwangjong/kwangjong.github.io/tree/backend)
+  - [blog-app](https://github.com/kwangjong/kwangjong.github.io)
 
 - I’m currently learning ...
   - Introduction to Algorithms(CS577), Data Science Modeling II (STAT340)
