@@ -4,7 +4,7 @@
   - [blog-app](https://github.com/kwangjong/kwangjong.github.io)
 
 - I’m currently learning ...
-  - Database Management Systems [(CS577)](https://guide.wisc.edu/courses/comp_sci/#:~:text=564)
+  - Database Management Systems [(CS544)](https://guide.wisc.edu/courses/comp_sci/#:~:text=564)
   - Introduction to Big Data Systems [(CS544)](https://tyler.caraza-harter.com/cs544/f23/syllabus.html)
 
 - How to reach me ...
