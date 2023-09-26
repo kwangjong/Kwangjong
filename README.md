@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=KJ&fontSize=90)
 - I’m currently working on ...
   - [OpenLambda](https://github.com/open-lambda/open-lambda/tree/s23)
+  - [coinbase-real-time-data-pipeline](https://github.com/kwangjong/coinbase-real-time-data-pipeline)
 
 - I’m currently learning ...
   - Database Management Systems [(CS564)](https://guide.wisc.edu/courses/comp_sci/#:~:text=564)
