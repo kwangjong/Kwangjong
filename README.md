@@ -8,7 +8,7 @@
 
 - How to reach me ...
   - Email: choikj0903@gmail.com
-  - Blog: kwangjong.github.io  
+  - Blog: [kwangjong.github.io](https://kwangjong.github.io)  
 <!--
 ## 💻 Recent Projects
 ### 🍳[HomeCooked Neural Net](https://kwangjong.github.io/2022/07/09/homecooked-nn/) <a href ="https://hf.space/streamlit/kwangjong/homecooked-nn/+/"> <img class ="badge-right" alt="Demo" src ="https://img.shields.io/badge/%F0%9F%A4%97%20Demo-blue?&style=flat"></a>
