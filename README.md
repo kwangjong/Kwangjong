@@ -3,8 +3,7 @@
   - [OpenLambda](https://github.com/open-lambda/open-lambda)
 
 - I’m currently learning ...
-  - Database Management Systems [(CS564)](https://guide.wisc.edu/courses/comp_sci/#:~:text=564)
-  - Introduction to Big Data Systems [(CS544)](https://tyler.caraza-harter.com/cs544/f23/syllabus.html)
+  - [CS540: Introduction to Artificial Intelligence](https://pages.cs.wisc.edu/~gkotse/cs540_website/)
 
 - How to reach me ...
   - Email: choikj0903@gmail.com
